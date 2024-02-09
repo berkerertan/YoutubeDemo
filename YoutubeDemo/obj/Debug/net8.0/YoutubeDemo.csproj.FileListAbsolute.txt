@@ -1,0 +1,14 @@
+/Users/berker/Projects/YoutubeDemo/YoutubeDemo/bin/Debug/net8.0/YoutubeDemo
+/Users/berker/Projects/YoutubeDemo/YoutubeDemo/bin/Debug/net8.0/YoutubeDemo.deps.json
+/Users/berker/Projects/YoutubeDemo/YoutubeDemo/bin/Debug/net8.0/YoutubeDemo.runtimeconfig.json
+/Users/berker/Projects/YoutubeDemo/YoutubeDemo/bin/Debug/net8.0/YoutubeDemo.dll
+/Users/berker/Projects/YoutubeDemo/YoutubeDemo/bin/Debug/net8.0/YoutubeDemo.pdb
+/Users/berker/Projects/YoutubeDemo/YoutubeDemo/obj/Debug/net8.0/YoutubeDemo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/berker/Projects/YoutubeDemo/YoutubeDemo/obj/Debug/net8.0/YoutubeDemo.AssemblyInfoInputs.cache
+/Users/berker/Projects/YoutubeDemo/YoutubeDemo/obj/Debug/net8.0/YoutubeDemo.AssemblyInfo.cs
+/Users/berker/Projects/YoutubeDemo/YoutubeDemo/obj/Debug/net8.0/YoutubeDemo.csproj.CoreCompileInputs.cache
+/Users/berker/Projects/YoutubeDemo/YoutubeDemo/obj/Debug/net8.0/YoutubeDemo.dll
+/Users/berker/Projects/YoutubeDemo/YoutubeDemo/obj/Debug/net8.0/refint/YoutubeDemo.dll
+/Users/berker/Projects/YoutubeDemo/YoutubeDemo/obj/Debug/net8.0/YoutubeDemo.pdb
+/Users/berker/Projects/YoutubeDemo/YoutubeDemo/obj/Debug/net8.0/YoutubeDemo.genruntimeconfig.cache
+/Users/berker/Projects/YoutubeDemo/YoutubeDemo/obj/Debug/net8.0/ref/YoutubeDemo.dll
